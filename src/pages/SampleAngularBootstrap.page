@@ -1,0 +1,16 @@
+<apex:page docType="html-5.0">
+    <apex:stylesheet value="//cdn.jsdelivr.net/webjars/bootstrap-sf1/0.1.0-beta.6/css/bootstrap-namespaced.css"/>
+    
+    <div class="bootstrap">
+    
+    <h1 align="center">
+        Welcome
+    </h1>
+        
+    <apex:form >
+        <apex:commandButton styleClass="btn btn-lg btn-default btn-block" value="I'm A Big Button!" />
+    </apex:form>
+    
+    </div>
+    
+</apex:page>
